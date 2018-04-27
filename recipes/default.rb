@@ -7,4 +7,4 @@
 
 include_recipe 'chef-client'
 
-include_recipe 'chef_client_updater'
+#include_recipe 'chef_client_updater'
