@@ -4,7 +4,7 @@ maintainer_email 'you@example.com'
 license 'All Rights Reserved'
 description 'Installs/Configures hack_client_upgrade'
 long_description 'Installs/Configures hack_client_upgrade'
-version '0.2.1'
+version '0.2.9'
 chef_version '>= 12.1' if respond_to?(:chef_version)
 
 # The `issues_url` points to the location where issues for this cookbook are
